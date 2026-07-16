@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE NOT surname = 'Vergüenza' AND email LIKE '%hot%'

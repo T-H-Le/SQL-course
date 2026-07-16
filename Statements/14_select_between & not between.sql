@@ -1,0 +1,5 @@
+SELECT * FROM users 
+WHERE user_id BETWEEN 1 AND 4
+WHERE user_id NOT BETWEEN 1 AND 4
+WHERE name BETWEEN 'Hiep' AND 'Juan'
+WHERE name NOT BETWEEN 'Hiep' AND 'Juan'

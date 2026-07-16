@@ -1,0 +1,1 @@
+SELECT SUM(date_of_birth) FROM users; 

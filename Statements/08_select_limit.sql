@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE NOT surname = 'Vergüenza' OR  email LIKE '%hot%' LIMIT 2 #uso cuando database larga
